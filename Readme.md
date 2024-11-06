@@ -1,3 +1,3 @@
-## Hi everyone, welcome to my git
--Hi balu here!
+## Welcome to git
+-This is coming from Balu
 -I'm adding this from branch
